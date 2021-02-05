@@ -20,3 +20,19 @@
 
 [Simple collaboration tool](http://collabedit.com/)
 
+[SQL queries builder](https://www.fpmgonline.com/mysql_generator.php)
+
+[Convert curl syntax to Python, Go & more](https://curl.trillworks.com/)
+
+[Dead simple wildcard DNS for any IP Address](https://nip.io/)
+
+## Golang libs, build tools and helpers
+
+[Mkdeb - .deb packages generation](https://github.com/cbednarski/mkdeb)
+
+[Gotest - tests generation](https://github.com/cweill/gotests)
+
+[Goconvey - testing tool](https://github.com/smartystreets/goconvey)
+
+[Changelog - progect's chengelog manipulating](https://github.com/mh-cbon/changelog)
+
