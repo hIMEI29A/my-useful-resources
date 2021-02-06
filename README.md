@@ -30,7 +30,7 @@
 
 [Mkdeb - .deb packages generation](https://github.com/cbednarski/mkdeb)
 
-[Gotest - tests generation](https://github.com/cweill/gotests)
+[Gotests - tests generation](https://github.com/cweill/gotests)
 
 [Goconvey - testing tool](https://github.com/smartystreets/goconvey)
 
