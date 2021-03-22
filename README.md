@@ -28,6 +28,8 @@
 
 ## Golang libs, build tools and helpers
 
+[LiteIDE - Golang IDE](http://liteide.org/en/)
+
 [Mkdeb - .deb packages generation](https://github.com/cbednarski/mkdeb)
 
 [Gotests - tests generation](https://github.com/cweill/gotests)
