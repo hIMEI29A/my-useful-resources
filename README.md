@@ -24,7 +24,19 @@
 
 [Convert curl syntax to Python, Go & more](https://curl.trillworks.com/)
 
+[Convert curl syntax to Go](https://mholt.github.io/curl-to-go/)
+
 [Dead simple wildcard DNS for any IP Address](https://nip.io/)
+
+[JSON formatter and validator](https://jsonformatter.curiousconcept.com/)
+
+[HttpBin](http://httpbin.org/)
+
+[JSON to Go's struct](https://mholt.github.io/json-to-go/)
+
+[JavaScript, HTML, CSS beautifier](https://beautifier.io/)
+
+
 
 ## Golang libs, build tools and helpers
 
